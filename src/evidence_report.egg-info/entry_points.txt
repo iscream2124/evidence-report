@@ -1,0 +1,2 @@
+[console_scripts]
+evidence-report = evidence_report.cli:main

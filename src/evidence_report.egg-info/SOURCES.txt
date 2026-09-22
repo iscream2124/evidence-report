@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/evidence_report/__init__.py
+src/evidence_report/cli.py
+src/evidence_report/core.py
+src/evidence_report.egg-info/PKG-INFO
+src/evidence_report.egg-info/SOURCES.txt
+src/evidence_report.egg-info/dependency_links.txt
+src/evidence_report.egg-info/entry_points.txt
+src/evidence_report.egg-info/requires.txt
+src/evidence_report.egg-info/top_level.txt
+tests/test_core.py
