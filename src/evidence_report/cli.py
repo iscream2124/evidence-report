@@ -18,7 +18,7 @@ def run_dir(value: str) -> Path:
 
 def parser() -> argparse.ArgumentParser:
     root = argparse.ArgumentParser(prog="evidence-report")
-    root.add_argument("--version", action="version", version="evidence-report 0.2.1")
+    root.add_argument("--version", action="version", version="evidence-report 0.2.2")
     commands = root.add_subparsers(dest="command", required=True)
 
     init = commands.add_parser("init", help="create a new evidence run")
