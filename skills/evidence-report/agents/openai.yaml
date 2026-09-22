@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence Report"
+  short_description: "Official evidence to a verified DOCX report"
+  default_prompt: "Use $evidence-report to research this topic from official sources and complete a verified DOCX report."

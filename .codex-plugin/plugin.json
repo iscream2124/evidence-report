@@ -1,0 +1,18 @@
+{
+  "name": "evidence-report",
+  "version": "0.1.0",
+  "description": "Official-source research, page-level verification, and validated DOCX reporting",
+  "author": {
+    "name": "iscream2124"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Evidence Report",
+    "shortDescription": "Official evidence to a verified DOCX report",
+    "longDescription": "Finds official sources, verifies page-level evidence, separates facts from unresolved issues, and completes a visually validated DOCX report.",
+    "developerName": "iscream2124",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Use $evidence-report to research this topic from official sources and complete a verified DOCX report."
+  }
+}
