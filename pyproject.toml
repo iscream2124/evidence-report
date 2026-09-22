@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "evidence-report"
-version = "0.2.0"
+version = "0.2.1"
 description = "Official-source evidence collection and report completion gates"
 readme = "README.md"
 requires-python = ">=3.10"
@@ -17,4 +17,3 @@ evidence-report = "evidence_report.cli:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
-

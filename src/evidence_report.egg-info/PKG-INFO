@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: evidence-report
-Version: 0.2.0
+Version: 0.2.1
 Summary: Official-source evidence collection and report completion gates
 Author: iscream2124
 License: Apache-2.0
@@ -11,6 +11,10 @@ Requires-Dist: pypdf>=5.0
 Dynamic: license-file
 
 # Evidence Report
+
+[![CI](https://github.com/iscream2124/evidence-report/actions/workflows/ci.yml/badge.svg)](https://github.com/iscream2124/evidence-report/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/iscream2124/evidence-report)](https://github.com/iscream2124/evidence-report/releases)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
 ![공식 근거 수집부터 검증 보고서와 지식 저장까지의 흐름](assets/evidence-report-flow.png)
 
